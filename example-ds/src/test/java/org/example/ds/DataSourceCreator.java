@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ds;
 
 import org.postgresql.ds.PGSimpleDataSource;
 

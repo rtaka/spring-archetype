@@ -1,6 +1,7 @@
-package org.example.sport;
+package org.example.ds.sport;
 
 import org.apache.ibatis.annotations.*;
+import org.example.domain.sport.Sport;
 
 import java.util.List;
 

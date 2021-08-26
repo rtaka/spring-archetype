@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ds;
 
 import org.dbunit.*;
 import org.dbunit.dataset.Column;

@@ -39,9 +39,7 @@
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="b5e2fc25-21a7-4f73-9f94-255df1567d72" object-ref="schemas/public/tables/sport" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="b5e2fc25-21a7-4f73-9f94-255df1567d72" />

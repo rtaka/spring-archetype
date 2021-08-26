@@ -1,8 +1,9 @@
-package org.example.sport;
+package org.example.ds.sport;
 
-import org.example.DBUnitSetup;
-import org.example.DBUnitTest;
-import org.example.MapperInject;
+import org.example.domain.sport.Sport;
+import org.example.ds.DBUnitSetup;
+import org.example.ds.DBUnitTest;
+import org.example.ds.MapperInject;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

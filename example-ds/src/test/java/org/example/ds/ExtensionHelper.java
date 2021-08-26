@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ds;
 
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.platform.commons.support.AnnotationSupport;

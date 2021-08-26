@@ -1,11 +1,14 @@
-package org.example.sport;
+package org.example.domain.sport;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
+import java.util.List;
+
 @Data
 @AllArgsConstructor
-public class Event {
+public class Discipline {
     private int id;
     private String name;
+    private List<Event> events;
 }

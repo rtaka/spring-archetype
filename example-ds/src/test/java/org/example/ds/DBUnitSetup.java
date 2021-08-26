@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ds;
 
 import java.lang.annotation.*;
 

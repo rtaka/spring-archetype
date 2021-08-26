@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ds;
 
 import org.apache.ibatis.mapping.Environment;
 import org.apache.ibatis.session.Configuration;
