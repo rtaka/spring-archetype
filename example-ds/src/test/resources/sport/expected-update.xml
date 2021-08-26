@@ -1,0 +1,6 @@
+<dataset>
+    <sport id="1" name="サッカー"/>
+    <sport id="2" name="空手"/>
+    <sport id="3" name="バスケ"/>
+    <sport id="4" name="野球"/>
+</dataset>
